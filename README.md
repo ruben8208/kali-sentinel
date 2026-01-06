@@ -46,7 +46,7 @@ Clonar el repositorio:
 
 Bash
 
-git clone https://github.com/TU_USUARIO/kali-sentinel.git
+git clone https://github.com/ruben8208/kali-sentinel.git
 cd kali-sentinel
 Dar permisos de ejecución:
 
@@ -116,4 +116,5 @@ Realizar una copia de seguridad antes de la ejecución.
 Reiniciar el sistema tras la ejecución para aplicar los cambios en el Kernel.
 
 Desarrollado por "Marcelo R. Damas" - Analista Técnico de Ciberseguridad
+
 
